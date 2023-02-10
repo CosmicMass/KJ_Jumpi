@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kristal_kovuk_play_mor
+  m_Shader: {fileID: -6465566751694194690, guid: 783886657aed8784b9f62a7a3600d2a6,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2986
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AO: 1
+    - _Alpha_Control: 10
+    - _EmissionContrast: 10.32
+    - _EmissionValue: 12.82
+    - _GradientOpacity: 0.17
+    - _GradientValue: 3
+    - _Metalic: 1
+    - _PiecesAngle: 9.43
+    - _PiecesContrast: 3.97
+    - _PiecesFallow: 20
+    - _PiecesOpacity: 1.7
+    - _PiecesSize: 7.9
+    - _QueueControl: 0
+    - _QueueOffset: -14
+    - _Smoothness: 0.98
+    - _cell_size: 2.49
+    - _emission_size: 10
+    - _emssion_power: 20
+    - _fresnel_power: 0.81
+    - _metalic_power: 0
+    - _piecesOpacity: 1.5
+    - _smoothness_power: 0.156
+    m_Colors:
+    - _Color: {r: 0, g: 1, b: 0.9911504, a: 1}
+    - _DeepColor: {r: 0.03671236, g: 0.23584908, b: 0.23004898, a: 1}
+    - _Emission_color: {r: 0.47752756, g: 0.6886792, b: 0.6609238, a: 0}
+    - _PiecesColor: {r: 0.7253471, g: 0.94112056, b: 0.9433962, a: 0}
+    - _cell_color: {r: 0.6933962, g: 0.72259665, b: 1, a: 1}
+    - _emission_color: {r: 0.118172795, g: 0.13207549, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &2135865399250909436
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
